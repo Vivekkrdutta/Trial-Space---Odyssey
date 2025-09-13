@@ -1,0 +1,1 @@
+Download the [Sample Terrain Assets pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808?srsltid=AfmBOor6nKbj5Z0pUR1d0kUNq5EBOFCBOTRXAStxTI7yxAoUulr157l2).
